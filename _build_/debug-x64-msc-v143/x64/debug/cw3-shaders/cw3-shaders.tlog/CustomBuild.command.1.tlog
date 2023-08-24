@@ -1,0 +1,30 @@
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\DEFAULT.FRAG
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/default.frag.spv" "default.frag"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\DEFAULT.VERT
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/default.vert.spv" "default.vert"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\FULLSCREEN.VERT
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/fullscreen.vert.spv" "fullscreen.vert"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\FULLSCREEN.FRAG
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/fullscreen.frag.spv" "fullscreen.frag"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\BRIGHTNESSFILTER.VERT
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/brightnessfilter.vert.spv" "brightnessfilter.vert"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\BRIGHTNESSFILTER.FRAG
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/brightnessfilter.frag.spv" "brightnessfilter.frag"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\HORIZONTALFILTER.VERT
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/horizontalfilter.vert.spv" "horizontalfilter.vert"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\HORIZONTALFILTER.FRAG
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/horizontalfilter.frag.spv" "horizontalfilter.frag"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\VERTICALFILTER.VERT
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/verticalfilter.vert.spv" "verticalfilter.vert"
+^E:\HPGE\HIGHPERFORMANCEGRAPHIC\CW\CW3\CW3\CW3YUANBAN\CW3\CW3\SHADERS\VERTICALFILTER.FRAG
+IF NOT EXIST "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders" (mkdir "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\\assets\cw3\shaders")
+"E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\/assets/cw3/shaders/verticalfilter.frag.spv" "verticalfilter.frag"

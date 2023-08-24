@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\cw3\main.cpp(1695,81): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\cw3\main.cpp(1744,80): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  cw3.vcxproj -> E:\HPGE\HighPerformanceGraphic\CW\CW3\cw3\cw3yuanban\cw3\bin\cw3-debug-x64-msc-v143.exe

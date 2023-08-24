@@ -1,0 +1,26 @@
+﻿  GLSLC: [FRAG] 'default.frag'
+  default.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  GLSLC: [VERT] 'default.vert'
+  1 warning generated.
+  GLSLC: [VERT] 'fullscreen.vert'
+  fullscreen.vert:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [FRAG] 'fullscreen.frag'
+  fullscreen.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [VERT] 'brightnessfilter.vert'
+  GLSLC: [FRAG] 'brightnessfilter.frag'
+  brightnessfilter.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [VERT] 'horizontalfilter.vert'
+  horizontalfilter.vert:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [FRAG] 'horizontalfilter.frag'
+  horizontalfilter.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [VERT] 'verticalfilter.vert'
+  verticalfilter.vert:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [FRAG] 'verticalfilter.frag'
+  verticalfilter.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
